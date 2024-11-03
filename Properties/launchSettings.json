@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Class,Inheritance,Cunstractor,Method,Base,This": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Class,Inheritance,Cunstractor,Method,Base,This\Class,Inheritance,Cunstractor,Method,Base,This\bin\Debug\net6.0\Class,Inheritance,Cunstractor,Method,Base,This.exe
+C:\Users\user\source\repos\Class,Inheritance,Cunstractor,Method,Base,This\Class,Inheritance,Cunstractor,Method,Base,This\bin\Debug\net6.0\Class,Inheritance,Cunstractor,Method,Base,This.deps.json
+C:\Users\user\source\repos\Class,Inheritance,Cunstractor,Method,Base,This\Class,Inheritance,Cunstractor,Method,Base,This\bin\Debug\net6.0\Class,Inheritance,Cunstractor,Method,Base,This.runtimeconfig.json
+C:\Users\user\source\repos\Class,Inheritance,Cunstractor,Method,Base,This\Class,Inheritance,Cunstractor,Method,Base,This\bin\Debug\net6.0\Class,Inheritance,Cunstractor,Method,Base,This.dll
+C:\Users\user\source\repos\Class,Inheritance,Cunstractor,Method,Base,This\Class,Inheritance,Cunstractor,Method,Base,This\bin\Debug\net6.0\Class,Inheritance,Cunstractor,Method,Base,This.pdb
+C:\Users\user\source\repos\Class,Inheritance,Cunstractor,Method,Base,This\Class,Inheritance,Cunstractor,Method,Base,This\obj\Debug\net6.0\Class,Inheritance,Cunstractor,Method,Base,This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Class,Inheritance,Cunstractor,Method,Base,This\Class,Inheritance,Cunstractor,Method,Base,This\obj\Debug\net6.0\Class,Inheritance,Cunstractor,Method,Base,This.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Class,Inheritance,Cunstractor,Method,Base,This\Class,Inheritance,Cunstractor,Method,Base,This\obj\Debug\net6.0\Class,Inheritance,Cunstractor,Method,Base,This.AssemblyInfo.cs
+C:\Users\user\source\repos\Class,Inheritance,Cunstractor,Method,Base,This\Class,Inheritance,Cunstractor,Method,Base,This\obj\Debug\net6.0\Class,Inheritance,Cunstractor,Method,Base,This.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Class,Inheritance,Cunstractor,Method,Base,This\Class,Inheritance,Cunstractor,Method,Base,This\obj\Debug\net6.0\Class,Inheritance,Cunstractor,Method,Base,This.dll
+C:\Users\user\source\repos\Class,Inheritance,Cunstractor,Method,Base,This\Class,Inheritance,Cunstractor,Method,Base,This\obj\Debug\net6.0\refint\Class,Inheritance,Cunstractor,Method,Base,This.dll
+C:\Users\user\source\repos\Class,Inheritance,Cunstractor,Method,Base,This\Class,Inheritance,Cunstractor,Method,Base,This\obj\Debug\net6.0\Class,Inheritance,Cunstractor,Method,Base,This.pdb
+C:\Users\user\source\repos\Class,Inheritance,Cunstractor,Method,Base,This\Class,Inheritance,Cunstractor,Method,Base,This\obj\Debug\net6.0\Class,Inheritance,Cunstractor,Method,Base,This.genruntimeconfig.cache
+C:\Users\user\source\repos\Class,Inheritance,Cunstractor,Method,Base,This\Class,Inheritance,Cunstractor,Method,Base,This\obj\Debug\net6.0\ref\Class,Inheritance,Cunstractor,Method,Base,This.dll
